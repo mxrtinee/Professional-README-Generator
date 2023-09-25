@@ -33,6 +33,10 @@ contact information. Say goodbye to manual README creation and let this applicat
   WHEN I click on the links in the Table of Contents
   THEN I am taken to the corresponding section of the README
 
+  ## Link to Google Drive
+
+  [Video Submission](https://drive.google.com/file/d/1fKFPiVz8U0p-XSTv8ikMTc7Wid2caSlA/view?usp=sharing)
+
   ## Screenshot
 
   The following image shows the README application's appearance and functionality:
